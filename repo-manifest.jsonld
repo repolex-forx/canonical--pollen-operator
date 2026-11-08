@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/pollen-operator/commit/f62eef4fa693179aa607abc0d1bf256a3feed0b6",
       "git:hexsha": "f62eef4fa693179aa607abc0d1bf256a3feed0b6",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "tf-1.0.0"
     },
     {
