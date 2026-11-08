@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "pollen-operator",
+  "versions": [
+    {
+      "commit": "f62eef4fa693179aa607abc0d1bf256a3feed0b6",
+      "tag": "tf-1.0.0",
+      "parsed_at": "2026-11-08T04:28:04.238737+00:00"
+    }
+  ]
+}
